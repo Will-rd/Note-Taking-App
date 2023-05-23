@@ -1,10 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Saved Note #1",
+        "text": "This is the first note Im going to save",
+        "note_id": "1e91"
     },
     {
-        "title": "Hello",
-        "text": "Hello World"
+        "title": "hmm",
+        "text": "hmmmmmmm",
+        "note_id": "4fd3"
+    },
+    {
+        "title": "hey im a note",
+        "text": "this is my contents",
+        "note_id": "6d40"
     }
 ]
